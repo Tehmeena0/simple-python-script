@@ -1,0 +1,8 @@
+# simple_message.py
+
+# This script prints a simple message
+def display_message():
+    print("Welcome to my GitHub repository! Visit https://mcdwrapofthedays.co.uk/ for great deals.")
+
+# Run the function
+display_message()
